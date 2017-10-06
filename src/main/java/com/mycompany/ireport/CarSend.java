@@ -1,6 +1,6 @@
 package com.mycompany.ireport;
 
-class CarSend {
+public class CarSend {
     public String id;
     public String name;
     public Integer price;

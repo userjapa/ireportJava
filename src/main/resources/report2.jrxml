@@ -11,15 +11,15 @@
               topMargin="20" bottomMargin="20">
   
     <field name="Id" class="java.lang.String">
-        <fieldDescription><![CDATA[carSend.id]]></fieldDescription>
+        <fieldDescription><![CDATA[id]]></fieldDescription>
     </field>    
     
     <field name="Name" class="java.lang.String">
-        <fieldDescription><![CDATA[carSend.name]]></fieldDescription>
+        <fieldDescription><![CDATA[name]]></fieldDescription>
     </field>
 	
     <field name="Price" class="java.lang.Integer">
-        <fieldDescription><![CDATA[carSend.price]]></fieldDescription>
+        <fieldDescription><![CDATA[price]]></fieldDescription>
     </field>
    
     <detail>
